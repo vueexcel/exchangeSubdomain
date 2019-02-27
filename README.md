@@ -1,4 +1,4 @@
-# dummynewappfortesting
+# subdomainwdt
 
 ## Project setup
 ```
